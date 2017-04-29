@@ -3,8 +3,8 @@ package genericity;
 public class Main {
 
 	public static void main(String[] args) {
-		show(1);// 自动装箱Integer
-		show(0.0);
+		show(1);//自动装箱Integer
+		show(0.0); //自动装箱Double
 		show("123");
 		show(new Test());
 	}
