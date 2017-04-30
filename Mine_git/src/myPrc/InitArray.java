@@ -6,7 +6,7 @@ public class InitArray {
 		int[] arr = {1,2,3,4};
 		int[] arr1 = new int[]{2,3,4,5};
 		int[] arr2 = new int[4];
-		arr2[0] = 3;arr2[1] = 3; //..
+		arr2[0] = 3;arr2[1] = 3; //...
 		System.out.println(arr+" " + arr1 + " " + arr2);
 	} 
 }
