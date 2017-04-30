@@ -3,9 +3,9 @@ package my_first_java_project;
 public class HelloWrold {
 
 	public static void main(String[] args) {
-		System.out.println("\t购物清单");
-		System.out.println("商品名称\t购买数量\t商品单价\t金额");
-		System.out.println("鳄鱼夹克\t1\t1900\t1900");
+		System.out.println("\t璐墿娓呭崟");
+		System.out.println("鍟嗗搧鍚嶇О\t璐拱鏁伴噺\t鍟嗗搧鍗曚环\t閲戦");
+		System.out.println("槌勯奔澶瑰厠\t1\t1900\t1900");
 		System.out.println("ipodMP4\t2\t400\t800");
 
 	}
