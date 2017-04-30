@@ -6,11 +6,11 @@ public class BigDecimalDemo {
 
 	public static void main(String[] args) {
 		
-		/*ÓÃdoubleÀàĞÍ¹¹ÔìBigDecimal¶ÔÏó*/
+		/*ç”¨doubleç±»å‹æ„é€ BigDecimalå¯¹è±¡*/
 		double b = 3.1415928;
 		BigDecimal bd3 = BigDecimal.valueOf(b);
 		
-		/*ÍÆ¼ö:ÓÃStringÀà¹¹ÔìBigDecimal¶ÔÏó*/
+		/*æ¨è:ç”¨Stringç±»æ„é€ BigDecimalå¯¹è±¡*/
 		BigDecimal bd = new BigDecimal("3.141592811");
 		BigDecimal bd2 = new BigDecimal("0.00001");
 		
@@ -20,7 +20,7 @@ public class BigDecimalDemo {
 		System.out.println(bd.subtract(bd2)); // bd - bd2
 		System.out.println(bd.multiply(bd2)); // bd * bd2
 		System.out.println(bd.divide(bd2)); // bd / bd
-		// BigDecimalµÄ¶ÔÏó²»¿É¸Ä±ä,ËùÒÔËùÓĞµÄÔËËã¶¼½«·µ»ØĞÂµÄBigDecimal¶ÔÏó
+		// BigDecimalçš„å¯¹è±¡ä¸å¯æ”¹å˜,æ‰€ä»¥æ‰€æœ‰çš„è¿ç®—éƒ½å°†è¿”å›æ–°çš„BigDecimalå¯¹è±¡
 	}
 
 }

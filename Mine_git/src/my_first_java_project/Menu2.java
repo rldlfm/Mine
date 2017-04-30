@@ -3,13 +3,13 @@ package my_first_java_project;
 public class Menu2 {
 
 	public static void main(String[] args) {
-		System.out.println("\t\t欢迎使用我行我素购物管理系统\n");
+		System.out.println("\t\t娆㈣繋浣跨敤鎴戣鎴戠礌璐墿绠＄悊绯荤粺\n");
 		System.out.println("*******************************************************\n");
-		System.out.println("\t\t\t1.客户信息管理\n");
-		System.out.println("\t\t\t2.购物结算\n");
-		System.out.println("\t\t\t3.真情回馈\n");
-		System.out.println("\t\t\t4.注销\n");
+		System.out.println("\t\t\t1.瀹㈡埛淇℃伅绠＄悊\n");
+		System.out.println("\t\t\t2.璐墿缁撶畻\n");
+		System.out.println("\t\t\t3.鐪熸儏鍥為\n");
+		System.out.println("\t\t\t4.娉ㄩ攢\n");
 		System.out.println("*******************************************************\n");
-		System.out.println("请选择,输入数字:");
+		System.out.println("璇烽�夋嫨,杈撳叆鏁板瓧:");
 	}
 }
